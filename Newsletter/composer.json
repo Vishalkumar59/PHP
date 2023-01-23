@@ -1,0 +1,19 @@
+{
+    "name": "invoidea/newsletter",
+    "description": "Admin Managemnet software",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "invoidea",
+            "email": "developer@invoidea.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Newsletter\\": "Modules/Newsletter/src/"
+        }
+    },
+    "require": {}
+}
